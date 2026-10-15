@@ -1,0 +1,429 @@
+{
+  "version": 1,
+  "siteName": "Mokova3D",
+  "tagline": "Custom 3D printing, creative décor, gifts and more.",
+  "whatsapp": "918527373680",
+  "instagram": "https://instagram.com/mokova3d",
+  "heroEyebrow": "Mokova3D · Custom 3D Printing",
+  "heroTitle": "Turning ideas into reality.",
+  "heroDescription": "From cute desk companions to statement décor, prototypes and functional parts — we turn digital ideas into physical objects with 3D printing.",
+  "heroPrimary": "Explore Products →",
+  "heroSecondary": "Start a Project",
+  "deliveryArea": "Delhi & NCR",
+  "currency": "INR",
+  "metaTitle": "3D Printing in Delhi | Custom 3D Prints & Décor | Mokova3D",
+  "metaDescription": "Mokova3D offers custom 3D printing in Delhi for home décor, gifts, prototypes, functional parts and creative designs.",
+  "announcement": "Custom orders available — send your idea on WhatsApp.",
+  "showAnnouncement": true,
+  "banners": [
+    {
+      "id": "hero-1",
+      "active": true,
+      "title": "Made for people who like different.",
+      "subtitle": "3D printed décor, gifts, collectibles and custom creations.",
+      "button": "Shop Products",
+      "link": "products.html",
+      "image": "assets/hero.jpg",
+      "badge": "MOKOVA3D"
+    },
+    {
+      "id": "hero-2",
+      "active": true,
+      "title": "Have an idea? We can print it.",
+      "subtitle": "Send a photo, sketch, STL or reference and get a custom quote on WhatsApp.",
+      "button": "Start Custom Order",
+      "link": "contact.html",
+      "image": "assets/products/figurine.jpg",
+      "badge": "CUSTOM 3D PRINTING"
+    },
+    {
+      "id": "hero-3",
+      "active": true,
+      "title": "Gifts, décor & fun prints.",
+      "subtitle": "Discover small-batch designs made for desks, shelves, gifting and everyday use.",
+      "button": "Explore Collection",
+      "link": "products.html",
+      "image": "assets/products/penguin.jpg",
+      "badge": "READY TO ENQUIRE"
+    }
+  ],
+  "content": {
+    "nav": {
+      "home": {
+        "label": "Home",
+        "href": "index.html",
+        "show": true
+      },
+      "shop": {
+        "label": "Shop",
+        "href": "products.html",
+        "show": true
+      },
+      "categories": {
+        "label": "Categories ▾",
+        "show": true
+      },
+      "gallery": {
+        "label": "Gallery",
+        "href": "gallery.html",
+        "show": true
+      },
+      "about": {
+        "label": "About",
+        "href": "about.html",
+        "show": true
+      },
+      "contact": {
+        "label": "Custom 3D Print",
+        "href": "contact.html",
+        "show": true
+      },
+      "faq": {
+        "label": "FAQ",
+        "href": "faq.html",
+        "show": true
+      },
+      "shipping": {
+        "label": "Delivery",
+        "href": "shipping.html",
+        "show": false
+      },
+      "cta": {
+        "label": "Chat with Mokova",
+        "href": "https://wa.me/918527373680",
+        "show": true
+      }
+    },
+    "home": {
+      "marquee": {
+        "show": true,
+        "text": "Custom 3D printing  ✦  Home décor  ✦  Gifts & keychains  ✦  Shadow lamps  ✦  Collectibles  ✦  Prototypes  ✦  Delhi & NCR  ✦  "
+      },
+      "trust": {
+        "show": true,
+        "items": [
+          {
+            "title": "Custom 3D printing",
+            "text": "Bring your own idea, model or reference."
+          },
+          {
+            "title": "Ready to enquire",
+            "text": "Browse products and ask on WhatsApp."
+          },
+          {
+            "title": "Delhi & NCR",
+            "text": "Local delivery enquiries welcome."
+          },
+          {
+            "title": "Direct support",
+            "text": "Talk directly with Mokova."
+          }
+        ]
+      },
+      "categories": {
+        "show": true,
+        "kicker": "Shop by category",
+        "title": "Find something you’ll love.",
+        "lead": "Décor, gifts, lighting, collectibles and custom printing."
+      },
+      "featured": {
+        "show": true,
+        "kicker": "Featured",
+        "title": "Popular picks from Mokova.",
+        "linkText": "View all products →",
+        "linkHref": "products.html"
+      },
+      "custom": {
+        "show": true,
+        "kicker": "Custom 3D printing",
+        "title": "Have an idea? Let’s make it real.",
+        "text": "Send a photo, sketch, STL, product link or rough idea. We’ll discuss size, quantity, material, colour and price.",
+        "button": "Start a custom order",
+        "buttonLink": "contact.html",
+        "image": "assets/products/figurine.jpg",
+        "imageAlt": "Custom 3D printed figurine"
+      },
+      "process": {
+        "show": true,
+        "kicker": "How it works",
+        "title": "Simple from idea to print.",
+        "steps": [
+          {
+            "title": "Share",
+            "text": "Send your product or custom reference on WhatsApp."
+          },
+          {
+            "title": "Confirm",
+            "text": "We discuss size, colour, quantity, price and delivery."
+          },
+          {
+            "title": "Print",
+            "text": "Your approved piece is printed and prepared for delivery."
+          }
+        ]
+      },
+      "why": {
+        "show": true,
+        "kicker": "Why Mokova",
+        "title": "Made with care, not complication.",
+        "items": [
+          {
+            "title": "Ready or custom",
+            "text": "Buy from the collection or bring your own idea."
+          },
+          {
+            "title": "Direct WhatsApp support",
+            "text": "Get answers about price, colours, quantity and delivery."
+          },
+          {
+            "title": "Small-batch friendly",
+            "text": "One piece, gifting quantity or a custom run."
+          }
+        ]
+      },
+      "reviews": {
+        "show": true,
+        "kicker": "Reviews",
+        "title": "What customers say.",
+        "label": "customer reviews"
+      },
+      "faq": {
+        "show": true,
+        "kicker": "FAQ",
+        "title": "Questions, answered.",
+        "linkText": "See all questions →",
+        "linkHref": "faq.html"
+      },
+      "cta": {
+        "show": true,
+        "kicker": "Can’t find what you need?",
+        "title": "Send us the idea.",
+        "text": "A reference image is enough to start.",
+        "button": "Request a custom quote",
+        "link": "contact.html"
+      }
+    },
+    "pages": {
+      "products": {
+        "kicker": "Mokova shop",
+        "title": "Shop 3D printed things you’ll love.",
+        "intro": "Browse by category, search the collection and open any product for details, reviews and WhatsApp enquiry."
+      },
+      "gallery": {
+        "kicker": "Gallery",
+        "title": "Made, printed & imagined.",
+        "intro": "Browse the work by category.",
+        "ctaKicker": "Like something?",
+        "ctaTitle": "Turn inspiration into a print.",
+        "ctaText": "Ask about an existing design or send your own reference for a custom 3D print.",
+        "ctaButton": "Request a quote",
+        "ctaLink": "contact.html"
+      },
+      "faq": {
+        "kicker": "FAQ",
+        "title": "Questions, answered.",
+        "intro": "Quick answers about products, custom 3D printing, delivery and enquiries.",
+        "searchPlaceholder": "Search questions…",
+        "ctaKicker": "Still unsure?",
+        "ctaTitle": "Ask Mokova directly.",
+        "ctaText": "Send the product name, reference or requirement and we’ll help you with the next step.",
+        "ctaButton": "Chat with Mokova",
+        "ctaLink": "contact.html"
+      }
+    },
+    "about": {
+      "values": {
+        "show": true,
+        "kicker": "What we stand for",
+        "title": "Built around your idea.",
+        "items": [
+          {
+            "title": "Made to order",
+            "text": "Every piece is printed for you, with the size and colour you choose."
+          },
+          {
+            "title": "Straight talk",
+            "text": "You get an honest quote and a clear timeline before we start."
+          },
+          {
+            "title": "Small batches",
+            "text": "One gift or fifty, we handle both without fuss."
+          }
+        ]
+      }
+    },
+    "contact": {
+      "tiles": [
+        {
+          "title": "WhatsApp",
+          "text": "+91 85273 73680 · fastest reply",
+          "link": "https://wa.me/918527373680"
+        },
+        {
+          "title": "Instagram",
+          "text": "@mokova3d",
+          "link": "https://instagram.com/mokova3d"
+        },
+        {
+          "title": "Location",
+          "text": "Delhi & NCR",
+          "link": "#"
+        },
+        {
+          "title": "Send us",
+          "text": "Photo, sketch, STL or link",
+          "link": "#"
+        }
+      ],
+      "formTitle": "Send an enquiry",
+      "formText": "Tell us what you want to buy or customise. The form opens WhatsApp with the details filled in.",
+      "side": [
+        {
+          "title": "What you can send",
+          "text": "Product name, reference photo, sketch, STL/model details, quantity, preferred colour, size and delivery location."
+        },
+        {
+          "title": "Quick contact",
+          "text": "WhatsApp: +91 85273 73680 · Instagram: @mokova3d"
+        }
+      ]
+    },
+    "product": {
+      "points": [
+        {
+          "title": "Customisation",
+          "text": "Ask about colour, size and quantity."
+        },
+        {
+          "title": "Delivery",
+          "text": "Share your pincode for delivery guidance."
+        },
+        {
+          "title": "Ordering",
+          "text": "Direct WhatsApp enquiry — no complicated checkout."
+        }
+      ],
+      "reviewsKicker": "Customer reviews",
+      "reviewsTitle": "What customers say.",
+      "reviewsLead": "Reviews from customers who bought this product.",
+      "reviewFormTitle": "Leave a review",
+      "check": {
+        "show": true,
+        "kicker": "Before ordering",
+        "title": "Need a custom version?",
+        "lead": "Send a reference image, size requirement or colour preference. We'll confirm feasibility, final price and delivery before you place the order.",
+        "items": [
+          {
+            "title": "Size",
+            "text": "Tell us the approximate height, width or dimensions you need."
+          },
+          {
+            "title": "Colour",
+            "text": "Ask about available colours or share your preferred look."
+          },
+          {
+            "title": "Quantity",
+            "text": "Single pieces and multiple-piece enquiries can be discussed."
+          },
+          {
+            "title": "Reference",
+            "text": "Send a photo, sketch, link or model after WhatsApp opens."
+          }
+        ]
+      },
+      "feedback": {
+        "show": true,
+        "kicker": "Customer feedback",
+        "title": "Real orders. Real feedback.",
+        "lead": "We don't publish made-up ratings. If you've ordered from Mokova, you can share your experience on our Google Business Profile.",
+        "boxTitle": "Have you bought from Mokova?",
+        "boxText": "Tell future customers about the product, finish, communication and delivery experience.",
+        "button": "Leave a Google review ↗",
+        "link": "https://share.google/YX2edKcaZqEUT6W5S"
+      },
+      "faq": {
+        "show": true,
+        "kicker": "FAQ",
+        "title": "Product questions, answered.",
+        "items": [
+          {
+            "question": "Is the displayed price final?",
+            "answer": "Only prices explicitly shown on the product listing are displayed. Customisation, quantity and delivery can change the final quote, so confirm on WhatsApp."
+          },
+          {
+            "question": "Can I request another colour?",
+            "answer": "For many products, yes. Availability depends on the current material/colour stock."
+          },
+          {
+            "question": "Can I order more than one?",
+            "answer": "Yes. Enter the quantity and send the enquiry; bulk or multiple-piece requirements can be discussed."
+          },
+          {
+            "question": "Can I send a reference image?",
+            "answer": "Yes. After WhatsApp opens, attach the reference image, sketch or screenshot in the chat."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "show": true,
+      "kicker": "Need help?",
+      "title": "Talk to Mokova directly.",
+      "text": "Questions about an order, a design or delivery? We reply on WhatsApp.",
+      "button": "Chat on WhatsApp",
+      "link": "https://wa.me/918527373680"
+    },
+    "footer": {
+      "about": "3D printed gifts, décor, collectibles and custom creations.",
+      "shopTitle": "Shop",
+      "shopLabel": "All products",
+      "shopLink": "products.html",
+      "helpTitle": "Help",
+      "help": [
+        {
+          "label": "Custom order",
+          "link": "contact.html"
+        },
+        {
+          "label": "FAQ",
+          "link": "faq.html"
+        },
+        {
+          "label": "Delivery",
+          "link": "shipping.html"
+        },
+        {
+          "label": "Returns",
+          "link": "returns.html"
+        }
+      ],
+      "connectTitle": "Connect",
+      "connect": [
+        {
+          "label": "Chat with Mokova",
+          "link": "https://wa.me/918527373680"
+        },
+        {
+          "label": "Instagram · @mokova3d",
+          "link": "https://instagram.com/mokova3d"
+        }
+      ],
+      "policy": [
+        {
+          "label": "Privacy",
+          "link": "privacy.html"
+        },
+        {
+          "label": "Terms",
+          "link": "terms.html"
+        },
+        {
+          "label": "Returns",
+          "link": "returns.html"
+        }
+      ],
+      "copyLeft": "© 2026 Mokova3D",
+      "copyRight": "Delhi & NCR · Ideas. Designed. Printed."
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "faq-1",
+      "question": "Can I request a custom design?",
+      "answer": "Yes. Send a photo, sketch, STL file, product link or just describe the idea on WhatsApp. We'll confirm size, material, colour and price before printing anything.",
+      "active": true
+    },
+    {
+      "id": "faq-2",
+      "question": "What can I send as a reference for custom printing?",
+      "answer": "Any of these works: a photo, a hand sketch, an STL/OBJ model, a product link or a rough description with dimensions. More detail means a faster, more accurate quote.",
+      "active": true
+    },
+    {
+      "id": "faq-3",
+      "question": "Do you print prototypes and functional parts?",
+      "answer": "Yes. We print prototypes, brackets, holders, replacement parts and other functional pieces. Tell us what the part does so we can suggest the right material and strength.",
+      "active": true
+    },
+    {
+      "id": "faq-4",
+      "question": "How do I place an order?",
+      "answer": "Open any product, choose quantity and colour, and tap Enquire on WhatsApp. Your selection is filled into the message. We confirm price and delivery, then start printing after you approve.",
+      "active": true
+    },
+    {
+      "id": "faq-5",
+      "question": "Can I choose the colour?",
+      "answer": "For most products, yes. Available colours vary by design and material, so ask on WhatsApp before ordering and we'll confirm what's in stock.",
+      "active": true
+    },
+    {
+      "id": "faq-6",
+      "question": "What materials do you print with?",
+      "answer": "Mostly PLA and PETG, which suit décor, gifts and everyday functional use. If you need a specific material or finish, mention it in your enquiry.",
+      "active": true
+    },
+    {
+      "id": "faq-7",
+      "question": "How long does an order take?",
+      "answer": "Ready designs usually take a few days. Custom or large pieces take longer. We give you a clear timeline when we confirm the order.",
+      "active": true
+    },
+    {
+      "id": "faq-8",
+      "question": "Do you deliver outside Delhi & NCR?",
+      "answer": "We focus on Delhi & NCR. For other cities, message us with your pincode and we'll tell you if delivery is possible and what it costs.",
+      "active": true
+    },
+    {
+      "id": "faq-9",
+      "question": "How much does shipping cost?",
+      "answer": "Delivery charges depend on your location, the size of the piece and the number of items. We share the exact amount before you confirm the order.",
+      "active": true
+    },
+    {
+      "id": "faq-10",
+      "question": "Can I order in bulk or for gifting?",
+      "answer": "Yes. We take corporate gifting, return gifts and event orders. Share the quantity and date, and we'll quote a per-piece price.",
+      "active": true
+    },
+    {
+      "id": "faq-11",
+      "question": "Can you change the size of an existing product?",
+      "answer": "Often, yes. Many designs can be scaled up or down. Ask for the size you need and we'll confirm if it prints well at that size.",
+      "active": true
+    },
+    {
+      "id": "faq-12",
+      "question": "How do I pay?",
+      "answer": "We confirm payment details on WhatsApp once the order is agreed. UPI and bank transfer are the usual options.",
+      "active": true
+    },
+    {
+      "id": "faq-13",
+      "question": "What if my piece arrives damaged?",
+      "answer": "Message us on WhatsApp with photos within 48 hours of delivery. We'll look at it and arrange a repair, reprint or refund as per our returns policy.",
+      "active": true
+    },
+    {
+      "id": "faq-14",
+      "question": "Can I return a custom-made piece?",
+      "answer": "Custom pieces are made only for you, so they can't be returned unless they arrive damaged or different from what we agreed. Check the returns page for details.",
+      "active": true
+    },
+    {
+      "id": "faq-15",
+      "question": "How do I care for 3D printed décor?",
+      "answer": "Keep it away from direct heat and long sun exposure. Wipe with a dry or slightly damp soft cloth. Avoid harsh cleaners.",
+      "active": true
+    },
+    {
+      "id": "faq-16",
+      "question": "Can I leave a review?",
+      "answer": "Yes. Open the product you bought and use the review form at the bottom. Reviews are checked by our team before they appear on the site.",
+      "active": true
+    }
+  ]
+}

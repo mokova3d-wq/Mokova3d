@@ -1,0 +1,605 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "gallery-001",
+      "title": "",
+      "categoryId": "lamps-lighting",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (1).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 1
+    },
+    {
+      "id": "gallery-002",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (2).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 2
+    },
+    {
+      "id": "gallery-003",
+      "title": "",
+      "categoryId": "home-decor",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (3).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 3
+    },
+    {
+      "id": "gallery-004",
+      "title": "",
+      "categoryId": "lamps-lighting",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM.jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 4
+    },
+    {
+      "id": "gallery-005",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (1).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 5
+    },
+    {
+      "id": "gallery-006",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (10).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 6
+    },
+    {
+      "id": "gallery-007",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (11).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 7
+    },
+    {
+      "id": "gallery-008",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (12).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 8
+    },
+    {
+      "id": "gallery-009",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (13).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 9
+    },
+    {
+      "id": "gallery-010",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (14).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 10
+    },
+    {
+      "id": "gallery-011",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (15).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 11
+    },
+    {
+      "id": "gallery-012",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (16).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 12
+    },
+    {
+      "id": "gallery-013",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (17).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 13
+    },
+    {
+      "id": "gallery-014",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (18).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 14
+    },
+    {
+      "id": "gallery-015",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (19).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 15
+    },
+    {
+      "id": "gallery-016",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (2).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 16
+    },
+    {
+      "id": "gallery-017",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (20).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 17
+    },
+    {
+      "id": "gallery-018",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (21).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 18
+    },
+    {
+      "id": "gallery-019",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (22).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 19
+    },
+    {
+      "id": "gallery-020",
+      "title": "",
+      "categoryId": "gifts-keychains",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (23).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 20
+    },
+    {
+      "id": "gallery-021",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (24).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 21
+    },
+    {
+      "id": "gallery-022",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (25).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 22
+    },
+    {
+      "id": "gallery-023",
+      "title": "",
+      "categoryId": "gifts-keychains",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (26).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 23
+    },
+    {
+      "id": "gallery-024",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (27).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 24
+    },
+    {
+      "id": "gallery-025",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (28).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 25
+    },
+    {
+      "id": "gallery-026",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (29).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 26
+    },
+    {
+      "id": "gallery-027",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (3).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 27
+    },
+    {
+      "id": "gallery-028",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (30).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 28
+    },
+    {
+      "id": "gallery-029",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (31).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 29
+    },
+    {
+      "id": "gallery-030",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (32).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 30
+    },
+    {
+      "id": "gallery-031",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (33).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 31
+    },
+    {
+      "id": "gallery-032",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (34).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 32
+    },
+    {
+      "id": "gallery-033",
+      "title": "",
+      "categoryId": "gifts-keychains",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (4).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 33
+    },
+    {
+      "id": "gallery-034",
+      "title": "",
+      "categoryId": "functional-utility",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (5).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 34
+    },
+    {
+      "id": "gallery-035",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (6).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 35
+    },
+    {
+      "id": "gallery-036",
+      "title": "",
+      "categoryId": "functional-utility",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (7).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 36
+    },
+    {
+      "id": "gallery-037",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (8).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 37
+    },
+    {
+      "id": "gallery-038",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (9).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 38
+    },
+    {
+      "id": "gallery-039",
+      "title": "",
+      "categoryId": "home-decor",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM.jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 39
+    },
+    {
+      "id": "gallery-040",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (1).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 40
+    },
+    {
+      "id": "gallery-041",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (10).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 41
+    },
+    {
+      "id": "gallery-042",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (11).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 42
+    },
+    {
+      "id": "gallery-043",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (12).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 43
+    },
+    {
+      "id": "gallery-044",
+      "title": "",
+      "categoryId": "functional-utility",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (13).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 44
+    },
+    {
+      "id": "gallery-045",
+      "title": "",
+      "categoryId": "gifts-keychains",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (14).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 45
+    },
+    {
+      "id": "gallery-046",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (15).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 46
+    },
+    {
+      "id": "gallery-047",
+      "title": "",
+      "categoryId": "spiritual-devotional",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (16).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 47
+    },
+    {
+      "id": "gallery-048",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (17).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 48
+    },
+    {
+      "id": "gallery-049",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (18).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 49
+    },
+    {
+      "id": "gallery-050",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (19).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 50
+    },
+    {
+      "id": "gallery-051",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (2).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 51
+    },
+    {
+      "id": "gallery-052",
+      "title": "",
+      "categoryId": "home-decor",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (20).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 52
+    },
+    {
+      "id": "gallery-053",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (3).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 53
+    },
+    {
+      "id": "gallery-054",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (4).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 54
+    },
+    {
+      "id": "gallery-055",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (5).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 55
+    },
+    {
+      "id": "gallery-056",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (6).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 56
+    },
+    {
+      "id": "gallery-057",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (7).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 57
+    },
+    {
+      "id": "gallery-058",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (8).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 58
+    },
+    {
+      "id": "gallery-059",
+      "title": "",
+      "categoryId": "cute-fun",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (9).jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 59
+    },
+    {
+      "id": "gallery-060",
+      "title": "",
+      "categoryId": "collectibles-miniatures",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM.jpeg",
+      "alt": "Mokova3D 3D printed creation",
+      "active": true,
+      "featured": false,
+      "sortOrder": 60
+    }
+  ]
+}

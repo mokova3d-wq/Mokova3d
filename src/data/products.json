@@ -1,0 +1,352 @@
+{
+  "version": 4,
+  "products": [
+    {
+      "id": "cat",
+      "name": "Cute Cat",
+      "category": "Décor & Gifts",
+      "price": "₹299",
+      "image": "assets/products/cat.webp",
+      "description": "A playful black-and-white 3D printed cat collectible for a desk, shelf or gift.",
+      "active": true,
+      "featured": true,
+      "categoryId": "cute-fun",
+      "categoryIds": [
+        "cute-fun",
+        "home-decor"
+      ],
+      "categories": [
+        "Cute & Fun Figures",
+        "Home Décor"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (3).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (3).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (20).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "penguin",
+      "name": "Roly-Poly Penguin",
+      "category": "Décor & Gifts",
+      "price": "₹299",
+      "image": "assets/products/penguin.webp",
+      "description": "A cute 3D printed penguin designed as a cheerful desk décor and gifting piece.",
+      "active": true,
+      "featured": true,
+      "categoryId": "cute-fun",
+      "categoryIds": [
+        "cute-fun",
+        "gifts-keychains",
+        "home-decor"
+      ],
+      "categories": [
+        "Cute & Fun Figures",
+        "Gifts & Keychains",
+        "Home Décor"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (2).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (2).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "lamp",
+      "name": "Shadow Lamp",
+      "category": "Lighting",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/lamp.webp",
+      "description": "A decorative 3D printed shadow lamp concept. Ask about available character/design options and current build details.",
+      "active": true,
+      "featured": true,
+      "categoryId": "lamps-lighting",
+      "categoryIds": [
+        "lamps-lighting",
+        "spiritual-devotional"
+      ],
+      "categories": [
+        "Lamps & Lighting",
+        "Spiritual & Devotional"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (1).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM.webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "friends",
+      "name": "3D Printed Friends",
+      "category": "Collectibles",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/friends.webp",
+      "description": "A collection of cute character designs for home, desk décor and gifting.",
+      "active": true,
+      "featured": false,
+      "categoryId": "collectibles-miniatures",
+      "categoryIds": [
+        "collectibles-miniatures",
+        "cute-fun"
+      ],
+      "categories": [
+        "Collectibles & Miniatures",
+        "Cute & Fun Figures"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (27).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (20).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (7).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesha Figure",
+      "category": "Spiritual",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/ganesha.webp",
+      "description": "A detailed decorative Ganesha figure printed for display. Ask about current size, finish and availability.",
+      "active": true,
+      "featured": false,
+      "categoryId": "spiritual-devotional",
+      "categoryIds": [
+        "spiritual-devotional",
+        "collectibles-miniatures"
+      ],
+      "categories": [
+        "Spiritual & Devotional",
+        "Collectibles & Miniatures"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (28).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (16).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (25).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "flexible",
+      "name": "Flexible Characters",
+      "category": "Fun Prints",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/flexible.webp",
+      "description": "Moveable, playful 3D printed character designs made for collecting and gifting.",
+      "active": true,
+      "featured": false,
+      "categoryId": "gifts-keychains",
+      "categoryIds": [
+        "gifts-keychains",
+        "cute-fun"
+      ],
+      "categories": [
+        "Gifts & Keychains",
+        "Cute & Fun Figures"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (33).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (20).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (7).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "octopus",
+      "name": "Character Figures",
+      "category": "Collectibles",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/octopus.webp",
+      "description": "Unique 3D printed forms made for display, collecting and gifting.",
+      "active": true,
+      "featured": false,
+      "categoryId": "collectibles-miniatures",
+      "categoryIds": [
+        "collectibles-miniatures",
+        "cute-fun"
+      ],
+      "categories": [
+        "Collectibles & Miniatures",
+        "Cute & Fun Figures"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (12).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (16).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (2).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "airplane",
+      "name": "Mini Models",
+      "category": "Collectibles",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/airplane.webp",
+      "description": "Small 3D printed models and novelty designs. Ask about available models or request a custom version.",
+      "active": true,
+      "featured": false,
+      "categoryId": "collectibles-miniatures",
+      "categoryIds": [
+        "collectibles-miniatures",
+        "cute-fun"
+      ],
+      "categories": [
+        "Collectibles & Miniatures",
+        "Cute & Fun Figures"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (7).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "figurine",
+      "name": "Custom Figurines",
+      "category": "Custom 3D Printing",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/figurine.webp",
+      "description": "Custom character and figurine enquiries. Share your reference image or model and tell us the size you need.",
+      "active": true,
+      "featured": true,
+      "categoryId": "custom-3d-printing",
+      "categoryIds": [
+        "custom-3d-printing",
+        "collectibles-miniatures"
+      ],
+      "categories": [
+        "Custom 3D Printing",
+        "Collectibles & Miniatures"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (10).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (11).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (18).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    },
+    {
+      "id": "bunny",
+      "name": "Cute Collectibles",
+      "category": "Décor & Gifts",
+      "price": "Ask on WhatsApp",
+      "image": "assets/products/bunny.webp",
+      "description": "Small cheerful 3D printed pieces suitable for gifting and display.",
+      "active": true,
+      "featured": false,
+      "categoryId": "cute-fun",
+      "categoryIds": [
+        "cute-fun",
+        "home-decor"
+      ],
+      "categories": [
+        "Cute & Fun Figures",
+        "Home Décor"
+      ],
+      "gallery": [
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (19).webp",
+        "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (29).webp"
+      ],
+      "sku": "",
+      "compareAtPrice": "",
+      "weight": "",
+      "material": "",
+      "dimensions": "",
+      "colors": [],
+      "badge": "",
+      "deliveryNote": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "sortOrder": 0
+    }
+  ]
+}

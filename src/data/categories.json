@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "id": "home-decor",
+      "name": "Home Décor",
+      "description": "Decorative 3D prints, desk pieces and display objects.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (3).jpeg",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "id": "spiritual-devotional",
+      "name": "Spiritual & Devotional",
+      "description": "Devotional figures, spiritual art and sacred-inspired 3D prints.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (28).jpeg",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "id": "lamps-lighting",
+      "name": "Lamps & Lighting",
+      "description": "Shadow lamps, character lamps and decorative lighting.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (1).jpeg",
+      "sortOrder": 3,
+      "active": true
+    },
+    {
+      "id": "gifts-keychains",
+      "name": "Gifts & Keychains",
+      "description": "Keychains, pendants, giftable prints and small personalised pieces.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (20).jpeg",
+      "sortOrder": 4,
+      "active": true
+    },
+    {
+      "id": "cute-fun",
+      "name": "Cute & Fun Figures",
+      "description": "Cute characters, playful prints and flexible fun designs.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.24 AM (2).jpeg",
+      "sortOrder": 5,
+      "active": true
+    },
+    {
+      "id": "collectibles-miniatures",
+      "name": "Collectibles & Miniatures",
+      "description": "Character figures, miniatures and display collectibles.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.25 AM (24).jpeg",
+      "sortOrder": 6,
+      "active": true
+    },
+    {
+      "id": "custom-3d-printing",
+      "name": "Custom 3D Printing",
+      "description": "Custom figurines, reference-based prints, prototypes and personalised models.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (10).jpeg",
+      "sortOrder": 7,
+      "active": true
+    },
+    {
+      "id": "functional-utility",
+      "name": "Functional & Utility Prints",
+      "description": "Useful accessories, holders, trays, organisers and functional 3D prints.",
+      "image": "assets/gallery/WhatsApp Image 2026-09-24 at 10.18.26 AM (14).jpeg",
+      "sortOrder": 8,
+      "active": true
+    }
+  ]
+}
